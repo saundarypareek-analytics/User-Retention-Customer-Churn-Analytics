@@ -1,7 +1,7 @@
 # 📊 User Retention, Churn Risk & Supply Chain Analytics
-![Dashboard Overview](User Retention, Churn Risk & Supply Chain Analytics_1.png)
+![Dashboard Overview](<User Retention, Churn Risk & Supply Chain Analytics_1.png>)
 
-![Dashboard Key Insights](User Retention, Churn Risk & Supply Chain Analytics_2.png)
+![Dashboard Key Insights](<User Retention, Churn Risk & Supply Chain Analytics_2.png>)
 
 ## 📌 Business Overview & Executive Summary
 In e-commerce operations, customer retention and logistics fulfillment speed are critical drivers of long-term profitability. This project delivers an end-to-end data analytics solution designed to evaluate **customer churn risk, User Retention patterns, and Supply Chain delivery timelines**.
